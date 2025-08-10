@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{app_main-cb5d75a1, app_visitor-9ba317f0, visitor-c039a15d, visitor-f7118836}" />
+  </component>
+</project>
